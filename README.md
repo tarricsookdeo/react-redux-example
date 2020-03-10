@@ -14,3 +14,8 @@ This project is a simple react-redux project I refer back to when setting up a r
 - In the `src` folder, delete every file except `App.js` and `index.js`.
 - In both `App.js` and `index.js`, remove all imports and references to any files you have deleted.
 - In `App.js`, delete all the JSX between the `className=App` div tags. Note to leave the div tags present as a parent element in the component.
+
+3. Install node packages:
+
+- `npm install redux`
+- `npm install react-redux`
